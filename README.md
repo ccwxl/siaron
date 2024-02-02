@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siaron
 - 👀 I’m interested in IoT
-- 🌱 I’m currently learning go,lua,erlang
+- 🌱 I’m currently learning go,lua,rust
 - 📫 How to reach me siaron.wang@gamil.com
 
 <!---
